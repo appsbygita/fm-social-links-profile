@@ -65,6 +65,11 @@ img {
   border-radius: 10px;
   color: var(--white);
   font-weight: 600;
+  cursor: pointer;
+}
+.link:hover {
+  background-color: var(--green);
+  color: var(--off-black);
 }
 
 h1 {
